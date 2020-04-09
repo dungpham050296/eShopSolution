@@ -41,6 +41,8 @@ namespace eShopSolution.BackendApi.Controllers
             return Ok(product);
         }
 
+       
+
         [HttpPost]
         public async Task<IActionResult> Create([FromForm]ProductCreateRequest request)
         {
