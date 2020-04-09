@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q3OowB3LopWd8Bg28Kml4ZYa6VjcsIBrb1h4BlvXU/5Q2VTGDGGrrkMswMQQQrAc14Eo9MWFGH3U/y+PyP+YDA==",
+  "success": true,
+  "projectFilePath": "E:\\New folder\\eShopSolution\\eShopSolution.ViewModels\\eShopSolution.ViewModels.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dungp\\.nuget\\packages\\fluentvalidation\\8.6.2\\fluentvalidation.8.6.2.nupkg.sha512",
+    "C:\\Users\\dungp\\.nuget\\packages\\fluentvalidation.aspnetcore\\8.6.2\\fluentvalidation.aspnetcore.8.6.2.nupkg.sha512",
+    "C:\\Users\\dungp\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\8.6.2\\fluentvalidation.dependencyinjectionextensions.8.6.2.nupkg.sha512",
+    "C:\\Users\\dungp\\.nuget\\packages\\microsoft.aspnetcore.http.features\\3.1.2\\microsoft.aspnetcore.http.features.3.1.2.nupkg.sha512",
+    "C:\\Users\\dungp\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\dungp\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.2\\microsoft.extensions.primitives.3.1.2.nupkg.sha512",
+    "C:\\Users\\dungp\\.nuget\\packages\\system.componentmodel.annotations\\4.4.1\\system.componentmodel.annotations.4.4.1.nupkg.sha512",
+    "C:\\Users\\dungp\\.nuget\\packages\\system.io.pipelines\\4.7.0\\system.io.pipelines.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
